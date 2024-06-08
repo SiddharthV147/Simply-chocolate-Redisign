@@ -1,0 +1,38 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+
+#div1{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+#div1 img{
+    /* height: 100%; */
+    width: 100%;
+    /* position: absolute; */
+    
+}
+#navbar{
+    position: relative;
+    
+
+}
+#simply_chocolate{
+    position: relative;
+    height: 40%;
+    width: 20%;
+    padding-top: 250px;
+    padding-left: 50px;
+    filter: brightness(4);
+    
+}
+#filter{
+    height: 100%; 
+    width: 100%; 
+    position: absolute;
+    background-color: black;
+    opacity: 0.38;
+}
